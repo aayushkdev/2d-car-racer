@@ -2,6 +2,9 @@
 
 Welcome to the **2D Car Racer** game, where you navigate a car through an endless road, avoiding obstacles and earning points. The game features a simple interface with controls for moving the car left and right while dodging incoming obstacles.
 
+![Splash Screen](Assets/splashscreen.png)
+
+
 ---
 
 ## 🚀 Features
